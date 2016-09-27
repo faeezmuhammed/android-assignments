@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment11</string>
+    <array name ="days">
+        <item>moday</item>
+        <item> tuesday</item>
+        <item> wednessday</item>
+        <item>thursday</item>
+        <item> friday</item>
+        <item>saturday</item>
+        <item>sunday</item>
+    </array>
+</resources>
