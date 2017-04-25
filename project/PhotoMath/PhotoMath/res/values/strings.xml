@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidocrappsampleActivity!</string>
+    <string name="app_name">PhotoMath</string>
+    <string name="LangDefault">language</string>
+    <string name="keyDefault">api key</string>
+    <string name="title_activity_starting">Starting</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_result_view">ResultView</string>
+    <string name="title_activity_frstpage">PhotoMath</string>
+
+</resources>
